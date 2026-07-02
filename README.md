@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>  
 <!-- <h3 align="center">A full stack developer focused on creating intuitive websites and apps</h3>   -->
   
-- 🔭 I’m currently working on [Fassal](https://github.com/fvizpal/fassal)  
+- 🔭 I'm a Data Scientist building production ML and GenAI systems at Protium Finance in Mumbai.
   
-- 👨‍💻 All of my projects are available at [Portfolio](https://vishalpa1.vercel.app/projects)  
+- 👨‍💻 All of my projects are available at [Portfolio](https://vishal-me.vercel.app/projects)  
   
 - 📫 How to reach me **vishalp9966@gmail.com**  
   
