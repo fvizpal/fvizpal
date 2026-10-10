@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>  
 <!-- <h3 align="center">A full stack developer focused on creating intuitive websites and apps</h3>   -->
   
-- 🔭 I'm a Data Scientist building production ML and GenAI systems at Protium Finance in Mumbai.
+- 🔭 I'm a Data Scientist building production ML and GenAI systems at a Financial services company in Mumbai.
+
+- Part time working on [Intuitive Data Science](https://intuitive-data-science.vercel.app/)  
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://vishal-me.vercel.app/projects)  
   
