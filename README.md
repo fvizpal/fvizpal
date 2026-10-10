@@ -4,7 +4,7 @@
   
 - 🔭 I'm a Data Scientist building production ML and GenAI systems at a Financial services company in Mumbai.
 
-- Part time working on [Intuitive Data Science](https://intuitive-data-science.vercel.app/)  
+- Part time working on [Intuitive Data Science](https://intuitive-data-science.vercel.app/) - [GitHub](https://github.com/fvizpal/intuitive_data_science/)
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://vishal-me.vercel.app/projects)  
   
